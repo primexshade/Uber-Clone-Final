@@ -3,7 +3,9 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-        APP
+        <Routes>
+          <Route path= "/" element={}
+        </Routes>
     </div>
   )
 }
